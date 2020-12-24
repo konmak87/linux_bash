@@ -1,4 +1,4 @@
-# mooqita_challenge
+# Random character lines file creation
 completed challenge for mooqita
 
 Hi there this is my first time on git and new on bash/linux program
